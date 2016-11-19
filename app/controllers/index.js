@@ -4,8 +4,4 @@
 
 app.controller('indexCtrl', function($scope) {
     console.log("indexCtrl");
-
-    var name2 = "kevin";
-
-    $scope.name = name2;
 });
